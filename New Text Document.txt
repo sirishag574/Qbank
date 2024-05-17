@@ -1,3 +1,13 @@
-13 day 18h 52m56s_alarm_300s_hd
-
-13d/21h/53m50s_alarm_300s_hd.mp4
+What are the external files:
+1.	Excel
+2.	Notepad
+3.	Pdf
+4.	Word…………………..
+But we concentrate on Excel and Notepad
+Working with Excel:
+Why do we use excel concepts in our selenium project?
+Ans: Mainly we use excel files to maintain test scripts data.
+Sometime we use excel files to update automation execution status or results
+Note: Directly we don’t have any methods, classes or interfaces in Java library, Excel related classes methods interfaces are available in below two libraries:
+JExcel: It supports only .xls files
+Apache POI : it supports both .xls and .xlsx
